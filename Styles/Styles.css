@@ -350,7 +350,7 @@ header div a{
         margin-right: 100px;
     }
     header{
-        width: 680px;
+        width: 600px;
     }
     .otherspages{
         font-size: 10px;
@@ -360,22 +360,22 @@ header div a{
         height: 40;
     }
     #box1{
-        width: 680px;
-    }
-    #box2{
-        width: 680px;
-    }
-    #box3{
-        width: 680px;
-    }
-    #box4{
-        width: 680px;
-    }
-    #loremcenter{
         width: 600px;
     }
+    #box2{
+        width: 600px;
+    }
+    #box3{
+        width: 600px;
+    }
+    #box4{
+        width: 600px;
+    }
+    #loremcenter{
+        width: 550px;
+    }
     #box5{
-        width: 680px;
+        width: 600px;
     }
     #moreboxes{
         width: 200px;
@@ -393,7 +393,7 @@ header div a{
         margin-top: 20px;
     }
     .headernav{
-        width: 500px;
+        width: 460px;
     }
     #pc{
         width: 250px;
