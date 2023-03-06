@@ -386,8 +386,8 @@ header div a{
         margin-left: 70px;
     }
     #AA{
-        width:140px;
-        margin-right: 100px ;
+        width:200px;
+        text-align: center;
     }
     #logobleux{
         width: 120px;
@@ -405,5 +405,6 @@ header div a{
     #cajadecajas{
         display: flex;
         flex-direction: column;
+        justify-content: center;
     }
 }
