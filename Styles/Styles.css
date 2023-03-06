@@ -407,4 +407,10 @@ header div a{
         flex-direction: column;
         justify-content: center;
     }
+    #piedepagina{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
 }
