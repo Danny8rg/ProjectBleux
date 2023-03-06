@@ -378,7 +378,9 @@ header div a{
         width: 600px;
     }
     #moreboxes{
-        width: 200px;
+        width: 320px;
+        margin-bottom: 10px;
+
     }
     #iconprincipal{
         margin-left: 70px;
