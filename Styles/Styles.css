@@ -380,6 +380,7 @@ header div a{
     #moreboxes{
         width: 320px;
         margin-bottom: 10px;
+        
 
     }
     #iconprincipal{
@@ -406,6 +407,7 @@ header div a{
         display: flex;
         flex-direction: column;
         justify-content: center;
+        align-items: center;
     }
     #piedepagina{
         display: flex;
