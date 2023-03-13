@@ -256,49 +256,7 @@ header div a{
 
 /* A partir de aqui las media queries*/ 
 
-@media screen and (max-width:770px){
-    #celimage{
-        height: 400px;
-        width: 200px;
-        margin-right: 100px;
-    }
-    header{
-        width: 860px;
-    }
-    .otherspages{
-        font-size: 12px;
-    }
-    #botonheader{
-        width: 120px;
-        height: 40;
-    }
-    #box1{
-        width: 860px;
-    }
-    #box2{
-        width: 860px;
-    }
-    #box3{
-        width: 860px;
-    }
-    #box4{
-        width: 860px;
-    }
-    #loremcenter{
-        width: 800px;
-    }
-    #box5{
-        width: 860px;
-    }
-    #moreboxes{
-        width: 250px;
-    }
-    #iconprincipal{
-        margin-left: 90px;
-    }
-}
-
-@media screen and (max-width:1000px){
+@media screen and (max-width:900px){
     #celimage{
         height: 400px;
         width: 200px;
@@ -342,8 +300,62 @@ header div a{
         width:200px;
         margin-right: 45px ;
     }
+    #h6{
+        width: 960px;
+    }
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:770px){
+    #celimage{
+        height: 400px;
+        width: 200px;
+        margin-right: 100px;
+    }
+    header{
+        width: 860px;
+    }
+    .otherspages{
+        font-size: 12px;
+    }
+    #botonheader{
+        width: 120px;
+        height: 40;
+    }
+    #box1{
+        width: 860px;
+    }
+    #box2{
+        width: 860px;
+    }
+    #box3{
+        width: 860px;
+    }
+    #box4{
+        width: 860px;
+    }
+    #loremcenter{
+        width: 800px;
+    }
+    #box5{
+        width: 860px;
+    }
+    #moreboxes{
+        width: 250px;
+    }
+    #iconprincipal{
+        margin-left: 90px;
+    }
+    #piedepagina{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 860px;
+    }
+    #h6{
+        width: 860;
+    }
+}
+@media screen and (max-width:480px){
     #celimage{
         height: 350px;
         width: 180px;
@@ -447,5 +459,8 @@ header div a{
         justify-content: center;
         align-items: center;
         height: 150px;
+    }
+    #h6{
+        width: 600px;
     }
 }
